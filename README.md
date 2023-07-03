@@ -4,7 +4,7 @@
 
 
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedro-aguilar-devhide_border=true&area=true&point=transparent&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedro-aguilar-dev&hideborder=true&area=true&point=transparent&theme=react-dark)
 
 
 
