@@ -4,7 +4,7 @@
 
 
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedro-aguilar-dev&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedro-aguilar-dev)
 
 
 
