@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-aguilar-dev&show_icons=true&hide_title=true&hide=stars&cache_seconds=86400&theme=midnight-purple)
 
-## 🔗 Conecte-se comigo
+### 🔗 Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](www.linkedin.com/in/pedro-henrique-aguilar-183083266)
 
 
